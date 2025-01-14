@@ -30,10 +30,13 @@ Porque permite tipar las props, el estado y las funciones, lo que facilita detec
 El sistema de tipos en TypeScript asigna un tipo específico a las variables, funciones y objetos. Esto previene errores comunes como pasar un argumento del tipo incorrecto a una función o acceder a propiedades inexistentes en un objeto. Al detectar estos problemas durante el desarrollo, se ahorra tiempo en depuración.
 
 ## 2. Ejercicio Práctico: Definiendo Tipos e Inferencia (1 punto)
+Ver `src/components/doctor-card/index.tsx` para la implementación.
 
 ## 3. Definición de Interfaces y Clases en TypeScript (1 punto)
+Ver `src/components/doctor-card/index.tsx` para la implementación. Ver en la implementación como se actualiza el nombre de especialidad "Cirugía" a "Médico cirujano"
 
 ## 4. TypeScript y ReactJS: Implementación Básica en un Componente (1.5 puntos)
+Ver `src/components/doctor-card/index.tsx` para la implementación.
 
 ## 5. Ventajas de TypeScript en el Desarrollo con ReactJS (1 punto)
 TypeScript ofrece varias ventajas en proyectos ReactJS:
